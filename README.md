@@ -1,0 +1,1 @@
+Index page layout built with bootstrap.
